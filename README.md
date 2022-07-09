@@ -4,12 +4,8 @@
 <h1>Bem vindos ao meu perfil no Github!! 👋</h1>
 
 
-
-
-
-
  <div>
-             <h2>Tecnologias que aprendo sobre:  </h2>
+             <h2>Eu aprendo sobre essas tecnologias:</h2>
 
             
  <img height="60" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
