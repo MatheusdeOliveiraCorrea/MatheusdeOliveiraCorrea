@@ -4,14 +4,7 @@
 <h1>Bem vindos ao meu perfil no Github!! 👋</h1>
 
 
-<div>
-            <h2>Entre em contato comigo :) </h2>
-            
-  <img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-  <img height="30" width="120" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-   
 
-</div>
 
 
 
@@ -29,6 +22,15 @@
                    
 </div>
 
+
+<div>
+            <h2>Entre em contato comigo :) </h2>
+            
+  <img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <img height="30" width="120" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+   
+
+</div>
 
 
 
