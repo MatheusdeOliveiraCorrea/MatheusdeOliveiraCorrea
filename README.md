@@ -4,21 +4,26 @@
 
 
 <div>
-
-
+            <h2>Entre em contato comigo :) </h2>
+  <img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 
 
 </div>
 
+##
 
-
-<div>
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-
+ <div>
+             <h2>Tecnologias que aprendo sobre:  </h2>
+<img height="60" width="60" style={margin-left:300px} src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+           
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+  
+<img height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+                  
+ <img height="60" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                   
 </div>
+
 
 
 
