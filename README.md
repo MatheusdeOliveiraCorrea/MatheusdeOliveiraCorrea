@@ -13,6 +13,6 @@ Desenvolvedor .NET
 
 ### Entre em contato comigo:
 *   ✉️  Me envie um email: [matheus82pessoal@protonmail.com](mailto:matheus82pessoal@protonmail.com)
-*   ✉️  Me envie uma mensagem: <a href="https://www.linkedin.com/in/programadormatheus/" target="_blank" rel="noreferrer"> LinkedIn</a>
+*   ✉️  Me envie uma mensagem no <a href="https://www.linkedin.com/in/programadormatheus/" target="_blank" rel="noreferrer"> LinkedIn</a>
 
 ##
