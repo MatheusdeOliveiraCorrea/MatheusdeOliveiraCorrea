@@ -6,7 +6,7 @@ Desenvolvedor .NET
 
 <p> <img align="right" height="150" src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ox3ystlhaxhizbu0w0x1x34b7tvo3k0glf2tjrs3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /></p> 
 <p>&nbsp;
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusdeOliveiraCorrea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusdeOliveiraCorrea&locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 </p>
 
 <br><br><br><br><br>
