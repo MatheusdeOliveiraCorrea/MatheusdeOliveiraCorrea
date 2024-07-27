@@ -29,9 +29,6 @@ Desenvolvedor .NET
 ![Tecnologias](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=50/>
 
-### Frameworks e Ferramentas:
-![Tecnologias](https://skillicons.dev/icons?i=dotnet,linux,docker,bash&theme=dark)
-
 ## 
 
 ### Entre em contato comigo:
