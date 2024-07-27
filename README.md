@@ -30,7 +30,7 @@ Desenvolvedor .NET
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=50/>
 
 ### Frameworks e Ferramentas:
-![Tecnologias](https://skillicons.dev/icons?i=dotnet,linux,docker&theme=dark)
+![Tecnologias](https://skillicons.dev/icons?i=dotnet,linux,docker,bash&theme=dark)
 
 ## 
 
